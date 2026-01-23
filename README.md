@@ -9,7 +9,7 @@ I've experienced building website from end-to-end, while learning @ ITB as an in
 <a href="https://www.instagram.com/rizainfird/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
 <a href="https://inriza-pweb.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=plastic&logo=google-chrome&logoColor=white"/></a>
 
-I'm happy to help if you need to build a software product and helping to digitalize your businesses. 
+I'm happy to help if you need to build a software product and helping to digitalize your business. 
 
 
 Phone: +62-858-6519-3061
