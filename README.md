@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm a software and product enthusiast | Like to design and code and turn it into something useful
+#### I'm a software and product enthusiast and a final year CS @ ITB | Like to design and code and turn it into something useful
 
 I've experienced building website from end-to-end, while learning @ ITB as an informatics student I learned also to communicate well and execute tasks not just coding wise but also to manage the skills I've learned inside or outside ITB. Building from React, PHP, and .NET projects as a Frontend, Backend, and Full-Stack Developer to Engineer I'm eager to learn more about software world.
 
