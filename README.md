@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! 👋
 
 #### I'm a software and product enthusiast and a final year CS @ ITB | Like to design and code and turn it into something useful
 
